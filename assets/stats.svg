@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="10 plugins in the Hermes catalog, 35 commits on Hermes Agent main, 26 pull requests merged, 0 network calls in the plugins">
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">
+    <g>
+      <rect x="0" y="0" width="282" height="170" rx="16" fill="#141312" stroke="#2b2724" stroke-width="2"/>
+      <text x="28" y="82" font-family="'JetBrains Mono',Consolas,monospace" font-size="56" font-weight="700" fill="#c8243a">10</text>
+      <text x="28" y="122" font-size="22" fill="#e8ddd0">plugins in the</text>
+      <text x="28" y="150" font-size="22" fill="#a8998a">Hermes catalog</text>
+    </g>
+    <g transform="translate(306 0)">
+      <rect x="0" y="0" width="282" height="170" rx="16" fill="#141312" stroke="#2b2724" stroke-width="2"/>
+      <text x="28" y="82" font-family="'JetBrains Mono',Consolas,monospace" font-size="56" font-weight="700" fill="#b9bd8a">35</text>
+      <text x="28" y="122" font-size="22" fill="#e8ddd0">commits on</text>
+      <text x="28" y="150" font-size="22" fill="#a8998a">Hermes Agent main</text>
+    </g>
+    <g transform="translate(612 0)">
+      <rect x="0" y="0" width="282" height="170" rx="16" fill="#141312" stroke="#2b2724" stroke-width="2"/>
+      <text x="28" y="82" font-family="'JetBrains Mono',Consolas,monospace" font-size="56" font-weight="700" fill="#c9b8a3">26</text>
+      <text x="28" y="122" font-size="22" fill="#e8ddd0">pull requests</text>
+      <text x="28" y="150" font-size="22" fill="#a8998a">merged</text>
+    </g>
+    <g transform="translate(918 0)">
+      <rect x="0" y="0" width="282" height="170" rx="16" fill="#141312" stroke="#2b2724" stroke-width="2"/>
+      <text x="28" y="82" font-family="'JetBrains Mono',Consolas,monospace" font-size="56" font-weight="700" fill="#9c7a58">0</text>
+      <text x="28" y="122" font-size="22" fill="#e8ddd0">network calls,</text>
+      <text x="28" y="150" font-size="22" fill="#a8998a">all data stays local</text>
+    </g>
+  </g>
+</svg>

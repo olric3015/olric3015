@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="olric3015: Hermes Agent plugins, web3 is my life">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141312"/>
+      <stop offset="1" stop-color="#0c0b0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#2b2724" stroke-width="2"/>
+
+  <!-- ears -->
+  <g transform="translate(1010 34)">
+    <path d="M18 170 C2 120 4 40 30 8 C46 -6 58 20 58 60 C58 110 52 150 46 172 Z" fill="#b9a994"/>
+    <path d="M28 160 C20 120 20 60 34 34 C42 26 46 50 46 80 C46 120 42 148 38 164 Z" fill="#8f8070"/>
+    <path d="M112 172 C104 130 102 60 118 16 C132 -8 150 10 148 52 C146 100 136 146 128 174 Z" fill="#b9a994"/>
+    <path d="M120 162 C116 126 116 72 126 40 C134 26 140 46 138 76 C136 112 130 144 126 166 Z" fill="#8f8070"/>
+    <!-- red tuft -->
+    <path d="M10 214 L30 168 L44 192 L58 150 L72 186 L86 146 L98 184 L114 158 L122 196 L142 176 L136 216 Z" fill="#c8243a"/>
+    <path d="M38 214 L58 178 L70 200 L88 168 L100 202 L118 186 L118 216 Z" fill="#e0384d"/>
+  </g>
+
+  <text x="64" y="128" font-family="'JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="62" font-weight="700" fill="#e8ddd0">olric3015</text>
+  <rect x="64" y="148" width="72" height="6" rx="3" fill="#c8243a"/>
+  <text x="64" y="200" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" fill="#b9bd8a">Open-source contributor to Hermes Agent</text>
+  <text x="64" y="240" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="27" fill="#a8998a">web3 is my life <tspan fill="#c8243a">♦</tspan></text>
+</svg>
